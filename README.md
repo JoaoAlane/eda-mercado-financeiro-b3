@@ -1,6 +1,6 @@
 # 📊 Análise de Risco de Ações da B3
 
-> 💼 Projeto de portfólio desenvolvido para demonstrar habilidades em análise de dados com Python. Faz parte dos meus estudos em Ciência e Análise de Dados, com foco em conseguir uma oportunidade de estágio na área.
+> 💼 Projeto de portfólio desenvolvido para demonstrar habilidades em análise de dados com Python. Faz parte dos meus estudos em Ciência e Análise de Dados.
 
 Análise exploratória dos retornos diários de quatro ações da B3 (PETR4, VALE3, ITUB4, MGLU3) comparadas ao Ibovespa (^BVSP), com foco em risco, volatilidade e relação entre os ativos.
 
